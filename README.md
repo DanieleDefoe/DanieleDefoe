@@ -21,7 +21,7 @@
 
 - 🔭 email **abuzar28102004@gmail.com**
 
-- 💬 telegram: **@danieledefoe**
+- 💬 telegram **@danieledefoe**
 
 
 ---------------------------
