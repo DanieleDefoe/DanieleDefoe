@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tproger.ru/uploads/2020/11/frontend-development-cover.png)](https://github.com/DanieleDefoe)
+[![MasterHead](https://sun9-77.userapi.com/impf/OJmVJswEuxwXJjh0Rz5qvRRXPDUSel-YPTD3Rw/rUjhUuRgR3w.jpg?size=1080x350&quality=95&sign=96e95f741939493f6ca67ba0918c81f0&type=album)](https://github.com/DanieleDefoe)
 
 <h1 align="center">Hi 👋, I'm Abuzar</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
