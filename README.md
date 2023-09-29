@@ -1,8 +1,5 @@
 [![MasterHead](https://sun9-77.userapi.com/impf/OJmVJswEuxwXJjh0Rz5qvRRXPDUSel-YPTD3Rw/rUjhUuRgR3w.jpg?size=1080x350&quality=95&sign=96e95f741939493f6ca67ba0918c81f0&type=album)](https://github.com/DanieleDefoe)
 
-<h1 align="center">Hi 👋, I'm Abuzar</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
-
 ## :hammer_and_wrench: My technology stack:
 |![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)| ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)| ![SCSS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)|
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|
